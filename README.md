@@ -13,7 +13,7 @@ globus login
 ```
 
 *get source endpoint* \
-`globus endoint search "CM4X"` 
+`globus endpoint search "CM4X"` 
 
 *get destination endpoint*\
 `echo "$(globus endpoint local-id)"`
