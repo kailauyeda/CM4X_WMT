@@ -1,7 +1,7 @@
 ## CM4X WMT
 
 ### to get data via globus transfer (after having set up an endpoint)
-> - a) Make directories in `/pub/kailau` for each dataset. \
+> - a) Make directories in `/pub/kailau` for each dataset.
 > - b) The files are initially put in the folder `~`, which is `data/homezvol3/kailau`.
 > - c) After the transfer, you will have to move the files from `~/24-25/name_of_directory` to `/pub/kailau/directory_from_a`
 
